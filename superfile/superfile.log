@@ -1,0 +1,33 @@
+2024/04/11 15:35:22 Copy single item write file error
+2024/04/11 15:35:22 /home/nemdos/.config/alacritty/alacritty.toml
+2024/04/11 15:35:22 No clipboard utilities available. Please install xsel, xclip, wl-clipboard or Termux:API add-on for termux-clipboard-get/set.
+2024/04/11 15:35:31 Paste file function create file error
+2024/04/11 15:35:31 open /home/alacritty.toml: permission denied
+2024/04/11 15:35:31 Pasted item error
+2024/04/11 15:35:31 open /home/alacritty.toml: permission denied
+2024/04/16 10:12:45 Get external media error
+2024/04/16 10:12:45 open /run/media/nemdos: no such file or directory
+2024/04/16 10:12:45 Get external media error
+2024/04/16 10:12:45 open /run/media/nemdos: no such file or directory
+2024/04/16 10:12:45 Get external media error
+2024/04/16 10:12:45 open /run/media/nemdos: no such file or directory
+2024/04/16 10:12:47 Get external media error
+2024/04/16 10:12:47 open /run/media/nemdos: no such file or directory
+2024/04/16 10:12:50 Get external media error
+2024/04/16 10:12:50 open /run/media/nemdos: no such file or directory
+2024/04/16 10:12:52 Get external media error
+2024/04/16 10:12:52 open /run/media/nemdos: no such file or directory
+2024/04/16 10:12:56 Get external media error
+2024/04/16 10:12:56 open /run/media/nemdos: no such file or directory
+2024/04/16 10:12:58 Get external media error
+2024/04/16 10:12:58 open /run/media/nemdos: no such file or directory
+2024/04/16 10:13:01 Get external media error
+2024/04/16 10:13:01 open /run/media/nemdos: no such file or directory
+2024/04/16 10:13:04 Get external media error
+2024/04/16 10:13:04 open /run/media/nemdos: no such file or directory
+2024/04/17 09:28:44 Get external media error
+2024/04/17 09:28:44 open /run/media/nemdos: no such file or directory
+2024/04/17 09:28:44 Get external media error
+2024/04/17 09:28:44 open /run/media/nemdos: no such file or directory
+2024/04/17 09:28:44 Get external media error
+2024/04/17 09:28:44 open /run/media/nemdos: no such file or directory

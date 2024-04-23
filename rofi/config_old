@@ -1,0 +1,72 @@
+configuration {
+    modes: [ combi, run ];
+    combi-modes: [ window, drun, run ];
+}
+
+window {
+    border-radius: 15px;
+    border-color: #F44466;
+    border: 3px;
+    background-color: #282A2E80;
+}
+
+num-rows {
+    padding: 5px 0px;
+    text-color: #FF8000;
+}
+
+num-filtered-rows {
+    padding: 5px 0px;
+    text-color: #FF8000;
+}
+
+textbox-prompt-colon {
+    enabled: false;
+}
+
+inputbar {
+    border-color: #FF0000;
+    border-radius: 15px;
+    background-color: #00000000;
+}
+
+prompt {
+    background-color: #F44466;
+    border-radius: 15px;
+    padding: 5px 10px;
+}
+
+listview {
+    scrollbar: false;
+}
+
+entry {
+    placeholder: "Type here to enter a filter here and filter with said filter";
+    placeholder-color: #CCCCCC;
+    //background-color: #282A2E;
+    background-color: transparent;
+    text-color: #CCCCCC;
+    border-radius: 15px;
+    padding: 5px 10px;
+}
+
+element {
+    orientation: horizontal;
+    children: [ element-text, element-icon ];
+    border-radius: 15px;
+    padding: 0px 10px;
+}
+
+element.alternate.normal {
+    background-color: #282A2EDD;
+    text-color: #F44466;
+}
+
+element.normal.normal {
+    background-color: #303848DD;
+    text-color: #FF8000;
+}
+
+element-icon {
+    size: 1em;
+}
